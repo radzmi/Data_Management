@@ -14,3 +14,6 @@ This analysis are performed using Hive.
 
 ## Uploading data into Hadoop
 The dataset are very large to be uploaded into hadoop using manual upload method. Alternative method are very crucial in this analysis. First, the dataset are uploded into putty using pscp technique. Then the dataset are pushed into hadoop at specified location. 
+
+## Hive
+The dataset then been imported into Hive. For this analysis, I seperated the data into mulitple .csv file as it make it easier to answer each question seperately. 
