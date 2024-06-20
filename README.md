@@ -22,7 +22,7 @@ The dataset then been imported into Hive. For this analysis, I seperated the dat
 After downloaded all .csv file, the analysis continued to answer all the question and make visualization for each answer. 
 
 ## Insights
-###Optimal Time for Minimizing Flight Delay:
+### Optimal Time for Minimizing Flight Delay:
 1. Time of Day:
 Morning (10:00 - 12:00): Lowest average delays (under 5 minutes).
 Afternoon (13:00 - 17:00): Gradual increase in delays (around 10 minutes).
