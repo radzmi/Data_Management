@@ -9,3 +9,8 @@ This repository comprises three distinct components:
 2. CSV Files: These are the exported data files from Hive.
 
 3. Screenshots (SS) Folder: This folder contains screenshots that document the steps taken in Hive.
+
+This analysis are performed using Hive. 
+
+## Uploading data into Hadoop
+The dataset are very large to be uploaded into hadoop using manual upload method. Alternative method are very crucial in this analysis. First, the dataset are uploded into putty using pscp technique. Then the dataset are pushed into hadoop at specified location. 
